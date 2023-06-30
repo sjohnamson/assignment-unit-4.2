@@ -1,8 +1,12 @@
+body {
+    background-color: darkseagreen;
+}
+
 header {
     background-color: forestgreen;
 }
 
-h2 {
+.info > h2 {
     background-color: cadetblue;
     text-align: center;
     padding: 10px;
